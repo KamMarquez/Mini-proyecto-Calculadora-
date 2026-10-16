@@ -13,14 +13,14 @@
 			<Setter Property="CornerRadius" Value="40" />
 		</Style>
 		<Style x:Key="EstiloFuncion" TargetType="Button">
-			<Setter Property="BackgroundColor" Value="#A5A5A5" />
-			<Setter Property="TextColor" Value="Black" />
+			<Setter Property="BackgroundColor" Value="#121212" />
+			<Setter Property="TextColor" Value="DarkRed" />
 			<Setter Property="FontSize" Value="32" />
 			<Setter Property="CornerRadius" Value="40" />
 		</Style>
 		<Style x:Key="EstiloOperador" TargetType="Button">
-			<Setter Property="BackgroundColor" Value="#FF9F0A" />
-			<Setter Property="TextColor" Value="White" />
+			<Setter Property="BackgroundColor" Value="#121212" />
+			<Setter Property="TextColor" Value="#B5B5A8" />
 			<Setter Property="FontSize" Value="36" />
 			<Setter Property="CornerRadius" Value="40" />
 		</Style>
